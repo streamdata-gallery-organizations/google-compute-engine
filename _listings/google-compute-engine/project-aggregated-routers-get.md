@@ -43,6 +43,7 @@ paths:
           description: OK
       tags:
       - router
+      - aggregation
 definitions:
   AccessConfig:
     properties:
