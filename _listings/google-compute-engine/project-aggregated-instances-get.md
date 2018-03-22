@@ -43,6 +43,7 @@ paths:
           description: OK
       tags:
       - instance
+      - aggregation
 definitions:
   AccessConfig:
     properties:
