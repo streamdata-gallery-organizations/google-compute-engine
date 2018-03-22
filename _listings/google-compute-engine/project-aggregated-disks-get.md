@@ -43,6 +43,7 @@ paths:
           description: OK
       tags:
       - disk
+      - aggregation
 definitions:
   AccessConfig:
     properties:
