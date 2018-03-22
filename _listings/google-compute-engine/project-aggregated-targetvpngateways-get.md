@@ -43,6 +43,7 @@ paths:
           description: OK
       tags:
       - target vpn gateway
+      - aggregation
 definitions:
   AccessConfig:
     properties:
