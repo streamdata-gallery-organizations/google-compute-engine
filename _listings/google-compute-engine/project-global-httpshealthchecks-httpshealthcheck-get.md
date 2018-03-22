@@ -32,7 +32,8 @@ paths:
         200:
           description: OK
       tags:
-      - health check
+      - checks
+      - health
 definitions:
   AccessConfig:
     properties:
