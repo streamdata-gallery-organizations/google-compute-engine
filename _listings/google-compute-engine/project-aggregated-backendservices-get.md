@@ -44,6 +44,7 @@ paths:
           description: OK
       tags:
       - backend service
+      - aggregation
 definitions:
   AccessConfig:
     properties:
