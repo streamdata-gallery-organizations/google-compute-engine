@@ -43,6 +43,7 @@ paths:
           description: OK
       tags:
       - autoscaler
+      - aggregation
 definitions:
   AccessConfig:
     properties:
